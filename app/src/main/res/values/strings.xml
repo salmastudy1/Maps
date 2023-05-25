@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lec10_maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="MAPS_API_KET">AIzaSyBqdJs75eyjrNXUC1YBmguWv59yHZos2D4</string>
+</resources>
